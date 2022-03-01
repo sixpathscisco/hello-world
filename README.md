@@ -1,3 +1,5 @@
+hello-world
+my first repository
 
 my name is carlos ramos
 i'm going to be a future computer scientist
